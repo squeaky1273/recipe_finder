@@ -50,9 +50,9 @@ Dates 3/16-3/25
 
 - Students must get proposal approved before starting the project to pass
 - SOLO
-    - must score an average above a 2.5 on the [rubric] (https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit)
+    - must score an average above a 2.5 on the [rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit)
 - TEAM
-    - Must score an average above 3 on the [rubric] (https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit)
+    - Must score an average above 3 on the [rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit)
     - Each individual completes 2 of the 3 personal achievement goals from their proposal
 - Pitch your product
 
